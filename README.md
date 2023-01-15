@@ -1,7 +1,7 @@
 # Friflex test task
 
 An application for getting weather in some city
-APK file: https://disk.yandex.ru/d/kFdm__u92PceTg
+APK file: https://disk.yandex.ru/d/qQFBUBly67rW7Q
 
 Screeshots:
 ![image](https://user-images.githubusercontent.com/96128160/212528427-b38b47fe-52d6-4db5-9660-4283ba0534e2.png)
