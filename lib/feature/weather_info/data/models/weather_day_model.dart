@@ -11,7 +11,7 @@ class WeatherDayModel extends WeatherDayEntity {
     required icon,
   }) : super(
             dt: dt,
-            temp: temp,
+            temp: (temp is int) ? temp.toDouble() : temp,
             humidity: humidity,
             speed: speed,
             description: description,
