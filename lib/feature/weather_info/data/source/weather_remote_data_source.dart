@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
-import 'package:friflex_test_task/core/constants/app_constants.dart';
+import 'package:friflex_test_task/core/constants/api_constants.dart';
 import 'package:friflex_test_task/core/error/exception.dart';
 import 'package:friflex_test_task/core/init/logging/logger.dart';
 

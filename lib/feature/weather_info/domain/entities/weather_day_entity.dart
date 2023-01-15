@@ -1,4 +1,4 @@
-import 'package:friflex_test_task/core/constants/app_constants.dart';
+import 'package:friflex_test_task/core/constants/api_constants.dart';
 
 //сущность, хранящая информацию о погоде в данный день
 class WeatherDayEntity {
