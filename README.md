@@ -1,6 +1,6 @@
 # friflex_test_task
 
-A new Flutter project.
+An application for getting weather in some city
 
 ## Getting Started
 
