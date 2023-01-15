@@ -3,7 +3,8 @@
 An application for getting weather in some city
 APK file: https://disk.yandex.ru/d/kbdCN3yWnFvULg
 
-Screeshots:![image](https://user-images.githubusercontent.com/96128160/212528427-b38b47fe-52d6-4db5-9660-4283ba0534e2.png)
+Screeshots:
+![image](https://user-images.githubusercontent.com/96128160/212528427-b38b47fe-52d6-4db5-9660-4283ba0534e2.png)
 ![image](https://user-images.githubusercontent.com/96128160/212528844-15f50cf9-fc83-4267-99b5-1f7cbdcd235a.png)
 ![image](https://user-images.githubusercontent.com/96128160/212528832-e8bc8948-775a-4e33-bf3c-e412c945eddb.png)
 ![image](https://user-images.githubusercontent.com/96128160/212528854-ab620f5a-22c8-4b12-8393-9f51b0879cc4.png)
