@@ -1,4 +1,4 @@
-# friflex_test_task
+# Friflex test task
 
 An application for getting weather in some city
 
